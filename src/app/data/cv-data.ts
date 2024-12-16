@@ -17,7 +17,7 @@ export const skills: Skill[] = [
 
 export const experiences: Experience[] = [
   {
-    company: 'TEXT d',
+    company: 'New Company',
     role: 'Senior React Developer (Contract)e e',
     period: 'November 2021 - Present e',
     projects: [
@@ -57,7 +57,7 @@ export const experiences: Experience[] = [
     ]
   },
   {
-    company: 'TEXT 22',
+    company: 'New Company',
     role: 'Senior React Developer (Contract)',
     period: 'November 2021 - Present',
     projects: [
@@ -97,7 +97,7 @@ export const experiences: Experience[] = [
     ]
   },
   {
-    company: 'TEXT 33',
+    company: 'New Company',
     role: 'Senior React Developer (Contract)',
     period: 'November 2021 - Present',
     projects: [
