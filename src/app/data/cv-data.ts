@@ -1,4 +1,4 @@
-import { Skill, Experience } from '@/types'
+import { Skill, Experience } from '@/app/types/index'
 
 export const skills: Skill[] = [
   { name: 'Reactjs', category: 'frontend' },
