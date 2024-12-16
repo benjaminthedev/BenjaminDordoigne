@@ -17,12 +17,12 @@ export const skills: Skill[] = [
 
 export const experiences: Experience[] = [
   {
-    company: 'CORPORATE ACTION COMPANY d',
+    company: 'TEXT d',
     role: 'Senior React Developer (Contract)e e',
     period: 'November 2021 - Present e',
     projects: [
       {
-        name: 'Deutsche Bank - Financial Messaging System e',
+        name: 'TEXT',
         details: [
           'Engineered SWIFT message processing system (MT56/MT57, MT57/MT58)',
           'Developed SSI management for DB accounts, AGL, Fixed Income',
@@ -31,7 +31,7 @@ export const experiences: Experience[] = [
         ]
       },
       {
-        name: 'HSBC Risk Management Application',
+        name: 'TEXT Risk Management Application',
         details: [
           'Architected greenfield risk management platform',
           'Implemented CI/CD pipeline using Jenkins',
@@ -57,12 +57,12 @@ export const experiences: Experience[] = [
     ]
   },
   {
-    company: 'CORPORATE ACTION COMPANY 22',
+    company: 'TEXT 22',
     role: 'Senior React Developer (Contract)',
     period: 'November 2021 - Present',
     projects: [
       {
-        name: 'Deutsche Bank - Financial Messaging System 2',
+        name: 'TEXT - Financial Messaging System 2',
         details: [
           'Engineered SWIFT message processing system (MT56/MT57, MT57/MT58)',
           'Developed SSI management for DB accounts, AGL, Fixed Income',
@@ -71,7 +71,7 @@ export const experiences: Experience[] = [
         ]
       },
       {
-        name: 'HSBC Risk Management Application 2',
+        name: 'TEXT Risk Management Application 2',
         details: [
           'Architected greenfield risk management platform 2',
           'Implemented CI/CD pipeline using Jenkins',
@@ -97,12 +97,12 @@ export const experiences: Experience[] = [
     ]
   },
   {
-    company: 'CORPORATE ACTION COMPANY 33',
+    company: 'TEXT 33',
     role: 'Senior React Developer (Contract)',
     period: 'November 2021 - Present',
     projects: [
       {
-        name: 'Deutsche Bank - Financial Messaging System 4',
+        name: 'TEXT - Financial Messaging System 4',
         details: [
           'Engineered SWIFT message processing system (MT56/MT57, MT57/MT58)',
           'Developed SSI management for DB accounts, AGL, Fixed Income',
@@ -111,7 +111,7 @@ export const experiences: Experience[] = [
         ]
       },
       {
-        name: 'HSBC Risk Management Application 4',
+        name: 'TEXT Risk Management Application 4',
         details: [
           'Architected greenfield risk management platform',
           'Implemented CI/CD pipeline using Jenkins',
