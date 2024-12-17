@@ -18,120 +18,16 @@ export const skills: Skill[] = [
 export const experiences: Experience[] = [
   {
     company: 'New Company',
-    role: 'Senior React Developer (Contract)e e',
-    period: 'November 2021 - Present e',
+    role: 'Role',
+    period: 'Date',
     projects: [
       {
-        name: 'TEXT',
+        name: 'name',
         details: [
-          'Engineered SWIFT message processing system (MT56/MT57, MT57/MT58)',
-          'Developed SSI management for DB accounts, AGL, Fixed Income',
-          'Built white-label reporting application',
-          'Tech stack: React, Next.js, TypeScript, Tailwind CSS'
-        ]
-      },
-      {
-        name: 'TEXT Risk Management Application',
-        details: [
-          'Architected greenfield risk management platform',
-          'Implemented CI/CD pipeline using Jenkins',
-          'Led UI/UX development for risk assessment interfaces'
-        ]
-      },
-      {
-        name: 'White labeled Reporting Application',
-        details: [
-          'Architected greenfield risk management platform',
-          'Implemented CI/CD pipeline using Jenkins',
-          'Led UI/UX development for risk assessment interfaces'
-        ]
-      },
-      {
-        name: 'White labeled Reporting Application s',
-        details: [
-          'Architected greenfield risk management platform',
-          'Implemented CI/CD pipeline using Jenkins',
-          'Led UI/UX development for risk assessment interfaces'
-        ]
-      }
-    ]
-  },
-  {
-    company: 'New Company',
-    role: 'Senior React Developer (Contract)',
-    period: 'November 2021 - Present',
-    projects: [
-      {
-        name: 'TEXT - Financial Messaging System 2',
-        details: [
-          'Engineered SWIFT message processing system (MT56/MT57, MT57/MT58)',
-          'Developed SSI management for DB accounts, AGL, Fixed Income',
-          'Built white-label reporting application',
-          'Tech stack: React, Next.js, TypeScript, Tailwind CSS'
-        ]
-      },
-      {
-        name: 'TEXT Risk Management Application 2',
-        details: [
-          'Architected greenfield risk management platform 2',
-          'Implemented CI/CD pipeline using Jenkins',
-          'Led UI/UX development for risk assessment interfaces'
-        ]
-      },
-      {
-        name: 'White labeled Reporting Application 44',
-        details: [
-          'Architected greenfield risk management platform',
-          'Implemented CI/CD pipeline using Jenkins',
-          'Led UI/UX development for risk assessment interfaces'
-        ]
-      },
-      {
-        name: 'White labeled Reporting Application 42',
-        details: [
-          'Architected greenfield risk management platform',
-          'Implemented CI/CD pipeline using Jenkins',
-          'Led UI/UX development for risk assessment interfaces'
-        ]
-      }
-    ]
-  },
-  {
-    company: 'New Company',
-    role: 'Senior React Developer (Contract)',
-    period: 'November 2021 - Present',
-    projects: [
-      {
-        name: 'TEXT - Financial Messaging System 4',
-        details: [
-          'Engineered SWIFT message processing system (MT56/MT57, MT57/MT58)',
-          'Developed SSI management for DB accounts, AGL, Fixed Income',
-          'Built white-label reporting application',
-          'Tech stack: React, Next.js, TypeScript, Tailwind CSS'
-        ]
-      },
-      {
-        name: 'TEXT Risk Management Application 4',
-        details: [
-          'Architected greenfield risk management platform',
-          'Implemented CI/CD pipeline using Jenkins',
-          'Led UI/UX development for risk assessment interfaces'
-        ]
-      },
-      {
-        name: 'White labeled Reporting Application 4',
-        details: [
-          'Architected greenfield risk management platform',
-          'Implemented CI/CD pipeline using Jenkins',
-          'Led UI/UX development for risk assessment interfaces'
-        ]
-      },
-      {
-        name: 'White labeled Reporting Application 4a',
-        details: [
-          'Architected greenfield risk management platform',
-          'Implemented CI/CD pipeline using Jenkins',
-          'Led UI/UX development for risk assessment interfaces'
+          'info',
+          'info',
+          'info',
+          'info',
         ]
       }
     ]
